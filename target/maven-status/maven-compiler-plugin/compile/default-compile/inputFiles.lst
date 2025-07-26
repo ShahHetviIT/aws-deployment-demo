@@ -1,2 +1,6 @@
-/Users/jeemypatel/Downloads/sample-backend-java21/src/main/java/com/example/demo/DemoApplication.java
-/Users/jeemypatel/Downloads/sample-backend-java21/src/main/java/com/example/demo/controller/HelloController.java
+D:\Workshop-deployment\aws deployment\aws-deployment-demo\src\main\java\com\example\demo\config\CorsConfig.java
+D:\Workshop-deployment\aws deployment\aws-deployment-demo\src\main\java\com\example\demo\controller\UserController.java
+D:\Workshop-deployment\aws deployment\aws-deployment-demo\src\main\java\com\example\demo\DemoApplication.java
+D:\Workshop-deployment\aws deployment\aws-deployment-demo\src\main\java\com\example\demo\model\User.java
+D:\Workshop-deployment\aws deployment\aws-deployment-demo\src\main\java\com\example\demo\repository\UserRepository.java
+D:\Workshop-deployment\aws deployment\aws-deployment-demo\src\main\java\com\example\demo\service\UserService.java
